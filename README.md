@@ -80,6 +80,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Para dúvidas ou sugestões, entre em contato:
 https://github.com/weslley-larroza
 https://www.linkedin.com/in/weslley-larroza-b8bb57213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 🚀 Vamos enviar algumas fotos! 📤✨
 
 ![image](https://github.com/user-attachments/assets/e5434be3-5f68-455f-8e7f-6db2ef3c9e8a)
