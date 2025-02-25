@@ -67,14 +67,6 @@ Tela de confirmação após o envio ✅
 
 Armazenamento local das últimas imagens enviadas 💾
 
-📜 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-🙌 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
 📧 Contato
 
 Para dúvidas ou sugestões, entre em contato:
