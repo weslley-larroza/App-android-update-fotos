@@ -78,11 +78,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 📧 Contato
 
 Para dúvidas ou sugestões, entre em contato:
-
-📩 Email: seuemail@exemplo.com
-
-🌍 GitHub: seuusuario
-
+https://github.com/weslley-larroza
 🚀 Vamos enviar algumas fotos! 📤✨
 ![image](https://github.com/user-attachments/assets/e5434be3-5f68-455f-8e7f-6db2ef3c9e8a)
 ![image](https://github.com/user-attachments/assets/81f002f1-e42e-4046-8f29-ee208c63cb35)
