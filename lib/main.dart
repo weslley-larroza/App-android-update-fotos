@@ -87,7 +87,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     var request = http.MultipartRequest(
       'POST',
-      Uri.parse('http://192.168.110.198:5000/upload'),
+      Uri.parse('http://IP SERVIDOR/upload'),
     );
 
     request.fields['orderNumber'] = orderNumber;
